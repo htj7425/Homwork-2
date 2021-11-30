@@ -22,4 +22,16 @@
   
 ## 문제 2
   
+  ![image](https://user-images.githubusercontent.com/43903354/144019208-25cbaa67-e116-4788-a9f7-017bc816a6eb.png)
+
+  **keystroke**
+  
+  ![image](https://user-images.githubusercontent.com/43903354/144019819-c7ae8065-b93b-4157-9636-e225d142367d.png)
+
+  - %s/sublime\|emacs/vim/g : 파일 전체에서 `sublime`과 `emacs`를 `vim`으로 모두 바꿔줌
+  
+---
+
+## 문제 3
+  
   
