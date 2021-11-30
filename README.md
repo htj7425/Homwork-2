@@ -136,3 +136,31 @@
 ---
   
 ## 문제 5
+
+  ![image](https://user-images.githubusercontent.com/43903354/144029549-2b67dbbe-c61e-4d2c-9f2f-3cdf208658a6.png)
+
+  ***1.***
+  
+  **keystrokes**
+  
+  ![image](https://user-images.githubusercontent.com/43903354/144029596-31734805-d2c5-4b4f-be28-f12f45eaa93b.png)
+  
+  - G : 마지막 라인으로 이동
+  - i : 현재 위치에서 입력 모드 시작
+  
+  ![vimgolf_5-1](https://user-images.githubusercontent.com/43903354/144031811-5cb596cc-e8ad-44d2-b850-c7f9bd477fc1.gif)
+
+  
+  ***2.***
+  
+  **keystrokes**
+  
+  ![image](https://user-images.githubusercontent.com/43903354/144029850-a30b4876-70b2-41d0-881f-36cc8f356c15.png)
+
+  - 5G : 5번째 라인으로 이동
+  - yw : 단어 한개 복사
+  - G : 마지막 라인으로 이동
+  - p : 현재위치 다음에 붙여넣기
+  - a : 현재 위치 다음 칸에서 입력 모드 시작
+  
+  ![vimgolf_5-2](https://user-images.githubusercontent.com/43903354/144031905-f714c3d8-0645-465c-8dca-3fd13ec192de.gif)
