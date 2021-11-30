@@ -70,4 +70,20 @@
   
   ![vimgolf_3-2](https://user-images.githubusercontent.com/43903354/144023263-dbae70db-1a17-44ef-8108-e75c556d2ac7.gif)
 
+  ***3.***
+  
+  **keystrokes**
+  
+  ![image](https://user-images.githubusercontent.com/43903354/144023437-8eca6a13-d32b-4fcb-b9f6-b2b49f34dfc2.png)
+
+  - M : 현재 화면 기준 중간으로 이동
+  - Y : 현재 라인 복사
+  - P : 현재 위치에 붙여넣기
+  - W : 다음 단어로 이동
+  - cw : 단어 하나 체인지
+  - ^ : 라인 맨 앞으로 이동
+  - i : 현재 위치에서 입력 모드 시작
+  
+  ![vimgolf_3-3](https://user-images.githubusercontent.com/43903354/144023803-0387f6f5-ac53-4faa-ae1f-61439e8400e6.gif)
+
   
