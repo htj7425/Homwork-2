@@ -101,9 +101,7 @@
   
   - :%s/y1/abs(y1)/g : 파일 전체에서 `y1`을 `abs(y1)`으로 변경
   - r : 한 글자만 체인지
-  - <Right> : 오른쪽 방향키로 이동
-  - <Up> : 위쪽 방향키로 이동
-  - <Down> : 아래쪽 방향키로 이동
+  - 방향키로 이동
   
   ![vimgolf_4-1](https://user-images.githubusercontent.com/43903354/144025528-02909007-938e-4268-9dcf-516762a242dc.gif)
 
@@ -116,7 +114,7 @@
   - :%s/y1/abs(y1)/g : 파일 전체에서 `y1`을 `abs(y1)`으로 변경
   - :set mouse=a : vim 에디터에서 마우스 사용 가능
   - r : 한 글자만 체인지
-  - <Down> : 아래쪽 방향키로 이동
+  - 방향키로 이동
   
   ![vimgolf_4-2](https://user-images.githubusercontent.com/43903354/144026594-a716302e-9d36-47ed-a50d-7e0d20217985.gif)
 
@@ -129,7 +127,7 @@
   - :%s/y1/abs(y1) : 파일 전체에서 `y1`을 `abs(y1)`으로 변경 / 한줄에 하나만 변경 가능
   - :set mouse=a : vim 에디터에서 마우스 사용 가능
   - r : 한 글자만 체인지
-  - <Down> : 아래쪽 방향키로 이동
+  - 방향키로 이동
 
   ![vimgolf_4-3](https://user-images.githubusercontent.com/43903354/144027541-2aa0a7a0-7f71-4499-ba5e-0b4d38ddaa2c.gif)
 
