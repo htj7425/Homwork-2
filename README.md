@@ -86,4 +86,22 @@
   
   ![vimgolf_3-3](https://user-images.githubusercontent.com/43903354/144023803-0387f6f5-ac53-4faa-ae1f-61439e8400e6.gif)
 
+---
+  
+## 문제 4
+  
+  ![image](https://user-images.githubusercontent.com/43903354/144024024-5538dce6-06c1-46f5-a5ff-ac801fb5863e.png)
+
+  
+  ***1.***
+  
+  **keystrokes**
+  
+  ![image](https://user-images.githubusercontent.com/43903354/144024060-8831b573-0a98-4976-9ad6-a7d99b41e396.png)
+  
+  - :%s/y1/abs(y1)/g : 파일 전체에서 `y1`을 `abs(y1)`으로 변경
+  - r : 한 글자만 체인지
+  
+  ![vimgolf_4-1](https://user-images.githubusercontent.com/43903354/144025528-02909007-938e-4268-9dcf-516762a242dc.gif)
+
   
