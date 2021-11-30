@@ -159,6 +159,6 @@
   - yw : 단어 한개 복사
   - G : 마지막 라인으로 이동
   - p : 현재위치 다음에 붙여넣기
-  - a : 현재 위치 다음 칸에서 입력 모드 시작
+  - a : 현재 위치 다음 칸에서 입력 모드 시작.
   
   ![vimgolf_5-2](https://user-images.githubusercontent.com/43903354/144031905-f714c3d8-0645-465c-8dca-3fd13ec192de.gif)
